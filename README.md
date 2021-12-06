@@ -4,13 +4,11 @@
 
 Все js-изменения вносятся в директории **src**, где лежит корневой файл **index.js**. Webpack использует этот файл как точку входа (см. **webpack.config.js:entry**).
 
-Для генерации файла **dist/main.js** выполнить команду
-```npm run build``` 
-и открыть в браузере файл **dist/index.html**
-
 Что делать:
 
 ```
 npm install
 npm run build
 ```
+
+Webpack соберет код в **dist/main.js**, после открыть в браузере файл **dist/index.html**.
