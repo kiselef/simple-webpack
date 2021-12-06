@@ -7,3 +7,8 @@
 Для генерации файла **dist/main.js** выполнить команду
 ```npm run build``` 
 и открыть в браузере файл **dist/index.html**
+
+Что делать:
+```npm install```
+
+```npm run build```
