@@ -11,4 +11,6 @@ npm install
 npm run build
 ```
 
-Webpack соберет код в **dist/main.js**, после открыть в браузере файл **dist/index.html**.
+Webpack соберет код в **dist/main.js**. 
+
+Открываем файл **dist/index.html** и наслаждаемся.
