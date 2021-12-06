@@ -9,6 +9,6 @@
 и открыть в браузере файл **dist/index.html**
 
 Что делать:
-```npm install```
 
-```npm run build```
+```npm install
+npm run build```
